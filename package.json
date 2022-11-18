@@ -1,0 +1,26 @@
+{
+  "name": "sometimes-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node periodictable.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emsaw721/sometimes-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emsaw721/sometimes-table/issues"
+  },
+  "homepage": "https://github.com/emsaw721/sometimes-table#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-periodic-table": "^0.0.6",
+    "periodic-table": "^0.0.8"
+  }
+}
